@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.219412
+#+DATE: 2015-08-30 20:47:23.551672
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_013-0593b> 
 #+PROPERTY: JUAN 13
 ¶
-
- 《阿毘達磨識身足論》卷第十三¶
+《阿毘達磨識身足論》卷第十三¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-6成就蘊
-1嗢拕南頌
-:PROPERTIES:
-:head: 成就蘊第六之一嗢拕南頌
-:END:
-¶
+成就蘊第六之一嗢拕南頌¶
 
 #+BEGIN_VERSE
 「　初成不成與捨得
@@ -381,7 +375,7 @@
 色界生長。有學異生。成就無學心。非色界¶
 繫善心者。謂無色界生長諸阿羅漢。成就色¶
 界繫善心。亦無學心者。謂欲界色界生長諸¶
-阿羅漢。非成就色界繫善心。亦非無學心者。¶
+阿螺漢。非成就色界繫善心。亦非無學心者。¶
 謂欲界生長。未得色界善心。及無色界生長。
 <pb:KR6l0004_T_013-0597b>¶
 有學異生。若成就色界繫有覆無記心。亦成¶

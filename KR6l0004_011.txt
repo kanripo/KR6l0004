@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.164926
+#+DATE: 2015-08-30 20:47:23.501719
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_011-0582b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《阿毘達磨識身足論》卷第十一¶
+《阿毘達磨識身足論》卷第十一¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-5雜蘊
-1嗢柁南頌
-:PROPERTIES:
-:head: 雜蘊第五之一嗢柁南頌
-:END:
-¶
+雜蘊第五之一嗢柁南頌¶
 
 #+BEGIN_VERSE
 「　雜蘊初染次所識

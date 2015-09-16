@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.105837
+#+DATE: 2015-08-30 20:47:23.458570
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_009-0572b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《阿毘達磨識身足論》卷第九¶
+《阿毘達磨識身足論》卷第九¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-4嗢拕南頌
-:PROPERTIES:
-:head: 所緣緣蘊第四之四
-:END:
-¶
+所緣緣蘊第四之四¶
 
 有十種心。謂欲界繫善心。不善心。有覆無記¶
 心。無覆無記心。色界繫善心。有覆無記心。無¶

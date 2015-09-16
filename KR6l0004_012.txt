@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.189120
+#+DATE: 2015-08-30 20:47:23.526705
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_012-0587c> 
 #+PROPERTY: JUAN 12
 ¶
-
- 《阿毘達磨識身足論》卷第十二¶
+《阿毘達磨識身足論》卷第十二¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-2嗢柁南頌
-:PROPERTIES:
-:head: 雜蘊第五之二
-:END:
-¶
+雜蘊第五之二¶
 
 諸斷善根。彼云何斷。何行相斷。謂如有一。故¶
 思害母害父命已。無隨愧悔。復如有一。故思¶
@@ -335,7 +330,7 @@
 不當了別。或非已了別今了別當了別。非已¶
 了別非今了別非當了別者。謂先未曾得。定¶
 不當得。非已了別非今了別當了別者。謂先¶
-未曾得。決定當得。非已了別非今了別。或¶
+未曾得。決定當德。非已了別非今了別。或¶
 當了別或不當了別者。謂先未曾得。或當得¶
 或不當得。非已了別今了別當了別者。謂¶
 先未曾得最初現前。現在色界繫善心有三¶

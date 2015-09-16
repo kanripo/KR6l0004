@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.269493
+#+DATE: 2015-08-30 20:47:23.601186
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_015-0603a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
 ¶
-
- 《阿毘達磨識身足論》卷第十五¶
+《阿毘達磨識身足論》卷第十五¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-3嗢拕南頌
-:PROPERTIES:
-:head: 成就蘊第六之三
-:END:
-¶
+成就蘊第六之三¶
 
 若不成就色界繫善心。亦不成就色界繫有¶
 覆無記心耶。或不成就色界繫善心。非色界¶

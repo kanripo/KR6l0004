@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:17.024243
+#+DATE: 2015-08-30 20:47:23.389927
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0004_T_006-0559a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《阿毘達磨識身足論》卷第六¶
+《阿毘達磨識身足論》卷第六¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-4所緣緣蘊
-1嗢拕南頌
-:PROPERTIES:
-:head: 所緣緣蘊第四之一嗢拕南頌
-:END:
-¶
+所緣緣蘊第四之一嗢拕南頌¶
 
 #+BEGIN_VERSE
 「　問過去等問善等
