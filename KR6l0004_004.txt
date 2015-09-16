@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:16.973539
+#+DATE: 2015-08-30 20:47:19.352528
 #+TITLE: 阿毘達磨識身足論
 #+PROPERTY: CBETA_ID T26n1539
 #+PROPERTY: ID KR6l0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1539
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0004_T_004-0547c> ¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《阿毘達磨識身足論》卷第四¶
+《阿毘達磨識身足論》卷第四¶
 ¶
 提婆設摩阿羅漢造¶
 三藏法師玄奘奉　詔譯¶
 
-3因緣蘊
-1嗢拕南頌
-:PROPERTIES:
-:head: 因緣蘊第三之一嗢拕南頌
-:END:
-¶
+因緣蘊第三之一嗢拕南頌¶
 
 #+BEGIN_VERSE
 「　過去等因與善等
@@ -452,7 +446,7 @@
 生。諸色界繫見道修所斷有覆無記心。何
 <pb:KR6l0004_T_004-0552b>¶
 等未斷因。謂此俱有相應等法。何等已斷因。¶
-謂色界繫遍行隨眠。及彼相應等法。若見¶
+謂色界繫遍行隨眠。及彼相應等及非見¶
 圓滿世尊弟子。未離色界貪。諸色界繫有覆¶
 無記心。何等未斷因。謂此俱有相應等法。何¶
 等已斷因。謂色界繫遍行隨眠。及彼相應等¶
